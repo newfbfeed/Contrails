@@ -20,7 +20,7 @@ FYBJ
 
 # safeMode
 
-false
+true
 
 # avatar
 
